@@ -162,18 +162,18 @@ python campeoes.py
 <h2 align="center">✦ Sobre mim</h2>
 
 <p align="center">
-Sou <b>SEU NOME</b>, estudante de <b>SEU CURSO</b>. <br>
+Sou <b>Lucas Gabriel Scomparin Campos da Cruz</b>, estudante de <b>Analise e Desenvolvimento de Sistemas</b>. <br>
 Este projeto faz parte dos meus estudos em <b>Python e Machine Learning</b>.
 </p>
 
 <p align="center">
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:lucasscomparin17@gmail.com">
   <img src="https://img.shields.io/badge/Email-c89b3c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/lucasscomparin">
   <img src="https://img.shields.io/badge/LinkedIn-c89b3c?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Luczin10">
   <img src="https://img.shields.io/badge/GitHub-c89b3c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -181,7 +181,7 @@ Este projeto faz parte dos meus estudos em <b>Python e Machine Learning</b>.
 ---
 
 <p align="center">
-✦ <i>Projeto desenvolvido por SEU NOME — 2026</i>
+✦ <i>Projeto desenvolvido por Lucas Scomparin — 2026</i>
 </p>
 
 <p align="center">
