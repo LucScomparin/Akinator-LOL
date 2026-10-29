@@ -124,8 +124,8 @@ A primeira pergunta que ele "faz" é sobre o <b>alcance</b>, a que mais divide o
 git clone https://github.com/Luczin10/Akinator-LOL.git
 cd Akinator-LOL
 
-# 2. Instale as dependências
-pip install pandas scikit-learn openpyxl
+# 2. Instale as dependências (pandas, scikit-learn e openpyxl)
+pip install -r requirements.txt
 
 # 3. Rode o script (ou abra no Jupyter / VS Code)
 python campeoes.py
