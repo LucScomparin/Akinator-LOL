@@ -121,8 +121,8 @@ A primeira pergunta que ele "faz" é sobre o <b>alcance</b>, a que mais divide o
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/Luczin10/Akinator-LOL.git
+cd Akinator-LOL
 
 # 2. Instale as dependências
 pip install pandas scikit-learn openpyxl
