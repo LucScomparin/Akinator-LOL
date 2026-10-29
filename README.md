@@ -104,7 +104,7 @@ A primeira pergunta que ele "faz" é sobre o <b>alcance</b>, a que mais divide o
 </p>
 
 <p align="center">
-  <img src="./grafico.webp" width="90%" alt="Árvore de decisão do modelo"/>
+  <img src="imagens/grafico.webp" width="90%" alt="Árvore de decisão do modelo"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@ A primeira pergunta que ele "faz" é sobre o <b>alcance</b>, a que mais divide o
 <h2 align="center">✦ Preview</h2>
 
 <p align="center">
-  <img src="./terminal.webp" width="75%" alt="Exemplo de execução no console"/>
+  <img src="imagens/terminal.webp" width="75%" alt="Exemplo de execução no console"/>
 </p>
 
 ---
